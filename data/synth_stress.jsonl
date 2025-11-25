@@ -1,0 +1,100 @@
+{"id": "synth_stress_0", "text": "reservation at starbucks for 8 june 1991", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 40, "label": "DATE"}]}
+{"id": "synth_stress_1", "text": "is aditi available in hyderabad", "entities": [{"start": 3, "end": 8, "label": "PERSON_NAME"}, {"start": 22, "end": 31, "label": "CITY"}]}
+{"id": "synth_stress_2", "text": "reservation at apollo hospital for 6 april 1989", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 47, "label": "DATE"}]}
+{"id": "synth_stress_3", "text": "my number is to five three eight zero five one to eight five", "entities": [{"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "synth_stress_4", "text": "is suresh available in pune", "entities": [{"start": 3, "end": 9, "label": "PERSON_NAME"}, {"start": 23, "end": 27, "label": "CITY"}]}
+{"id": "synth_stress_5", "text": "send details to john dot priya at yahoo dot com", "entities": [{"start": 16, "end": 47, "label": "EMAIL"}]}
+{"id": "synth_stress_6", "text": "payment using card three o six six eight five o five seven five two eight four one to one confirmed", "entities": [{"start": 19, "end": 89, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_7", "text": "meeting on march 12 2015 at terminal 2", "entities": [{"start": 11, "end": 24, "label": "DATE"}, {"start": 28, "end": 38, "label": "LOCATION"}]}
+{"id": "synth_stress_8", "text": "call bob at seven seven three oh one zero eight", "entities": [{"start": 5, "end": 8, "label": "PERSON_NAME"}, {"start": 12, "end": 47, "label": "PHONE"}]}
+{"id": "synth_stress_9", "text": "meeting on 26 april 1994 at apollo hospital", "entities": [{"start": 11, "end": 24, "label": "DATE"}, {"start": 28, "end": 43, "label": "LOCATION"}]}
+{"id": "synth_stress_10", "text": "call aditi at eight one eight two one nine three for", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 52, "label": "PHONE"}]}
+{"id": "synth_stress_11", "text": "the card ending with eight nine eight eight four o o one four nine five three seven seven one three failed", "entities": [{"start": 21, "end": 99, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_12", "text": "send details to john dot kumar at gmail dot com", "entities": [{"start": 16, "end": 47, "label": "EMAIL"}]}
+{"id": "synth_stress_13", "text": "my number is 22 30 10 49 88", "entities": [{"start": 13, "end": 27, "label": "PHONE"}]}
+{"id": "synth_stress_14", "text": "my name is ramesh and i live in london", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 38, "label": "CITY"}]}
+{"id": "synth_stress_15", "text": "the card ending with 2712 8455 4175 9596 failed", "entities": [{"start": 21, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_16", "text": "call aditi at five five three eight three nine one three", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 56, "label": "PHONE"}]}
+{"id": "synth_stress_17", "text": "reservation at apollo hospital for 23 december 1993", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 51, "label": "DATE"}]}
+{"id": "synth_stress_18", "text": "my name is alice and i live in pune", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 35, "label": "CITY"}]}
+{"id": "synth_stress_19", "text": "reservation at starbucks for 5 january 1982", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 43, "label": "DATE"}]}
+{"id": "synth_stress_20", "text": "meeting on 21 april 1990 at central park", "entities": [{"start": 11, "end": 24, "label": "DATE"}, {"start": 28, "end": 40, "label": "LOCATION"}]}
+{"id": "synth_stress_21", "text": "my name is smith and i live in delhi", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "synth_stress_22", "text": "my number is eight seven four eight one three nine nine", "entities": [{"start": 13, "end": 55, "label": "PHONE"}]}
+{"id": "synth_stress_23", "text": "send details to sureshbob@example.com", "entities": [{"start": 16, "end": 37, "label": "EMAIL"}]}
+{"id": "synth_stress_24", "text": "the card ending with one six zero eight 8164 2243 7648 failed", "entities": [{"start": 21, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_25", "text": "reservation at starbucks for 24 december 2000", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 45, "label": "DATE"}]}
+{"id": "synth_stress_26", "text": "my number is too o five o five o five", "entities": [{"start": 13, "end": 37, "label": "PHONE"}]}
+{"id": "synth_stress_27", "text": "my number is 841 518 550 6", "entities": [{"start": 13, "end": 26, "label": "PHONE"}]}
+{"id": "synth_stress_28", "text": "my name is alice and i live in london", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_stress_29", "text": "my number is two oh four zero seven eight four nine", "entities": [{"start": 13, "end": 51, "label": "PHONE"}]}
+{"id": "synth_stress_30", "text": "reservation at terminal 2 for april 15 2004", "entities": [{"start": 15, "end": 25, "label": "LOCATION"}, {"start": 30, "end": 43, "label": "DATE"}]}
+{"id": "synth_stress_31", "text": "call ramesh at for four to too nine five zero six seven eight", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 61, "label": "PHONE"}]}
+{"id": "synth_stress_32", "text": "payment using card 2789 8830 6651 1138 confirmed", "entities": [{"start": 19, "end": 38, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_33", "text": "my name is smith and i live in delhi", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "synth_stress_34", "text": "payment using card 8980 5129 3671 8053 confirmed", "entities": [{"start": 19, "end": 38, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_35", "text": "payment using card for five for nine 6988 7886 3752 confirmed", "entities": [{"start": 19, "end": 51, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_36", "text": "my number is nine three three seven for six six", "entities": [{"start": 13, "end": 47, "label": "PHONE"}]}
+{"id": "synth_stress_37", "text": "call kumar at too five five five five four to o five nine", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 57, "label": "PHONE"}]}
+{"id": "synth_stress_38", "text": "my name is ramesh and i live in mumbai", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 38, "label": "CITY"}]}
+{"id": "synth_stress_39", "text": "meeting on 18 may 1990 at main street", "entities": [{"start": 11, "end": 22, "label": "DATE"}, {"start": 26, "end": 37, "label": "LOCATION"}]}
+{"id": "synth_stress_40", "text": "my name is priya and i live in delhi", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "synth_stress_41", "text": "call aditi at 652 946 570 7", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 27, "label": "PHONE"}]}
+{"id": "synth_stress_42", "text": "the card ending with one nine five three two oh five four one one five for one nine nine two failed", "entities": [{"start": 21, "end": 92, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_43", "text": "contact me at ramesh@yahoo.com or 32 80 58 2", "entities": [{"start": 14, "end": 30, "label": "EMAIL"}, {"start": 34, "end": 44, "label": "PHONE"}]}
+{"id": "synth_stress_44", "text": "payment using card seven nine five nine nine seven zero three five nine three five seven five two one confirmed", "entities": [{"start": 19, "end": 101, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_45", "text": "reservation at main street for 19 october 2023", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}, {"start": 31, "end": 46, "label": "DATE"}]}
+{"id": "synth_stress_46", "text": "reservation at central park for 12 october 2007", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 47, "label": "DATE"}]}
+{"id": "synth_stress_47", "text": "the card ending with two four four six 7644 7857 5238 failed", "entities": [{"start": 21, "end": 53, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_48", "text": "payment using card six zero five to 8111 0623 8027 confirmed", "entities": [{"start": 19, "end": 50, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_49", "text": "send details to aditi dot suresh at gmail dot com", "entities": [{"start": 16, "end": 49, "label": "EMAIL"}]}
+{"id": "synth_stress_50", "text": "call sharma at 435 565 5", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 24, "label": "PHONE"}]}
+{"id": "synth_stress_51", "text": "call sharma at nine nine nine seven too one three oh too one", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 60, "label": "PHONE"}]}
+{"id": "synth_stress_52", "text": "reservation at apollo hospital for june 6 2015", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 46, "label": "DATE"}]}
+{"id": "synth_stress_53", "text": "payment using card two one nine too five six five for three oh six eight too one six o confirmed", "entities": [{"start": 19, "end": 86, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_54", "text": "contact me at bob@yahoo.com or 83 06 38 46 17", "entities": [{"start": 14, "end": 27, "label": "EMAIL"}, {"start": 31, "end": 45, "label": "PHONE"}]}
+{"id": "synth_stress_55", "text": "my name is priya and i live in delhi", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "synth_stress_56", "text": "the card ending with seven six eight eight nine four five three too zero one two nine six four too failed", "entities": [{"start": 21, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_57", "text": "contact me at ramesh@yahoo.com or eight four to five two six three one zero five", "entities": [{"start": 14, "end": 30, "label": "EMAIL"}, {"start": 34, "end": 80, "label": "PHONE"}]}
+{"id": "synth_stress_58", "text": "the card ending with for eight four nine six four eight o four seven five four eight eight nine zero failed", "entities": [{"start": 21, "end": 100, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_59", "text": "call aditi at seven o five nine for one nine nine five o", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 56, "label": "PHONE"}]}
+{"id": "synth_stress_60", "text": "call bob at to five too six eight six zero five o oh", "entities": [{"start": 5, "end": 8, "label": "PERSON_NAME"}, {"start": 12, "end": 52, "label": "PHONE"}]}
+{"id": "synth_stress_61", "text": "the card ending with seven nine zero eight four to two too four six six for too two eight for failed", "entities": [{"start": 21, "end": 93, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_62", "text": "send details to johnkumar@example.com", "entities": [{"start": 16, "end": 37, "label": "EMAIL"}]}
+{"id": "synth_stress_63", "text": "my number is 92 28 20 37 59", "entities": [{"start": 13, "end": 27, "label": "PHONE"}]}
+{"id": "synth_stress_64", "text": "reservation at apollo hospital for 25 april 1993", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 48, "label": "DATE"}]}
+{"id": "synth_stress_65", "text": "my number is three one seven zero zero two nine four", "entities": [{"start": 13, "end": 52, "label": "PHONE"}]}
+{"id": "synth_stress_66", "text": "my name is smith and i live in mumbai", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_stress_67", "text": "payment using card six six seven nine for o nine one one five one three four o one six confirmed", "entities": [{"start": 19, "end": 86, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_68", "text": "reservation at starbucks for 17 september 1989", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 46, "label": "DATE"}]}
+{"id": "synth_stress_69", "text": "reservation at starbucks for 21 february 2021", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 45, "label": "DATE"}]}
+{"id": "synth_stress_70", "text": "my number is 640 221 056 8", "entities": [{"start": 13, "end": 26, "label": "PHONE"}]}
+{"id": "synth_stress_71", "text": "my name is john and i live in bangalore", "entities": [{"start": 11, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 39, "label": "CITY"}]}
+{"id": "synth_stress_72", "text": "send details to suresh@gmail.com", "entities": [{"start": 16, "end": 32, "label": "EMAIL"}]}
+{"id": "synth_stress_73", "text": "send details to aditi@example.com", "entities": [{"start": 16, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_stress_74", "text": "is kumar available in mumbai", "entities": [{"start": 3, "end": 8, "label": "PERSON_NAME"}, {"start": 22, "end": 28, "label": "CITY"}]}
+{"id": "synth_stress_75", "text": "the card ending with for o eight zero four to five three four three five four nine oh zero zero failed", "entities": [{"start": 21, "end": 95, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_76", "text": "my number is eight to seven nine eight five o one", "entities": [{"start": 13, "end": 49, "label": "PHONE"}]}
+{"id": "synth_stress_77", "text": "contact me at kumar@outlook.com or oh four for two nine four three six five too", "entities": [{"start": 14, "end": 31, "label": "EMAIL"}, {"start": 35, "end": 79, "label": "PHONE"}]}
+{"id": "synth_stress_78", "text": "call kumar at nine three five five nine one five", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 48, "label": "PHONE"}]}
+{"id": "synth_stress_79", "text": "my name is ramesh and i live in delhi", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 37, "label": "CITY"}]}
+{"id": "synth_stress_80", "text": "contact me at aditi at outlook dot com or seven seven four seven three too eight eight nine two", "entities": [{"start": 14, "end": 38, "label": "EMAIL"}, {"start": 42, "end": 95, "label": "PHONE"}]}
+{"id": "synth_stress_81", "text": "reservation at apollo hospital for 21 february 1995", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 51, "label": "DATE"}]}
+{"id": "synth_stress_82", "text": "contact me at priyasuresh@yahoo.com or six nine eight seven too one nine nine one four", "entities": [{"start": 14, "end": 35, "label": "EMAIL"}, {"start": 39, "end": 86, "label": "PHONE"}]}
+{"id": "synth_stress_83", "text": "the card ending with for too o four four for four to eight three nine one five for seven zero failed", "entities": [{"start": 21, "end": 93, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_84", "text": "contact me at kumar dot ramesh at gmail dot com or 04 46 16 50", "entities": [{"start": 14, "end": 47, "label": "EMAIL"}, {"start": 51, "end": 62, "label": "PHONE"}]}
+{"id": "synth_stress_85", "text": "call suresh at 90 10 27 5", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 25, "label": "PHONE"}]}
+{"id": "synth_stress_86", "text": "the card ending with 3902 3574 6263 1617 failed", "entities": [{"start": 21, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_87", "text": "reservation at apollo hospital for 6 june 1986", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 46, "label": "DATE"}]}
+{"id": "synth_stress_88", "text": "payment using card 1618 6659 6134 3190 confirmed", "entities": [{"start": 19, "end": 38, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_89", "text": "call smith at one nine to eight nine one four", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 45, "label": "PHONE"}]}
+{"id": "synth_stress_90", "text": "the card ending with six seven two o six for five to six one eight three o seven seven for failed", "entities": [{"start": 21, "end": 90, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_91", "text": "my name is sharma and i live in pune", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 36, "label": "CITY"}]}
+{"id": "synth_stress_92", "text": "reservation at terminal 2 for september 19 2025", "entities": [{"start": 15, "end": 25, "label": "LOCATION"}, {"start": 30, "end": 47, "label": "DATE"}]}
+{"id": "synth_stress_93", "text": "the card ending with 2126 4575 5586 7964 failed", "entities": [{"start": 21, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_94", "text": "payment using card 5657 4261 7791 5917 confirmed", "entities": [{"start": 19, "end": 38, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_95", "text": "send details to alice at gmail dot com", "entities": [{"start": 16, "end": 38, "label": "EMAIL"}]}
+{"id": "synth_stress_96", "text": "call smith at 832 593 6", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 23, "label": "PHONE"}]}
+{"id": "synth_stress_97", "text": "send details to suresh@hotmail.com", "entities": [{"start": 16, "end": 34, "label": "EMAIL"}]}
+{"id": "synth_stress_98", "text": "the card ending with three three one nine 5912 3884 2547 failed", "entities": [{"start": 21, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "synth_stress_99", "text": "my name is kumar and i live in mumbai", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}

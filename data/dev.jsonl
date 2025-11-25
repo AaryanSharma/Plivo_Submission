@@ -1,0 +1,185 @@
+{"id": "utt_0048", "text": "this is aditya rao from hyderabad my phone is 79270 65379 and email is aditya dot rao at rediffmail dot co.in we can meet on 18/05/2024", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 24, "end": 33, "label": "CITY"}, {"start": 46, "end": 57, "label": "PHONE"}, {"start": 71, "end": 109, "label": "EMAIL"}, {"start": 125, "end": 135, "label": "DATE"}]}
+{"id": "utt_0203", "text": "i am neha dubey travelling to kolkata on 5 july 2023", "entities": [{"start": 5, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 37, "label": "CITY"}, {"start": 41, "end": 52, "label": "DATE"}]}
+{"id": "utt_0169", "text": "my name is sanjay krishnan i work in electronic city in jaipur", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 37, "end": 52, "label": "LOCATION"}, {"start": 56, "end": 62, "label": "CITY"}]}
+{"id": "utt_0690", "text": "the office is near koramangala in lucknow today", "entities": [{"start": 19, "end": 30, "label": "LOCATION"}, {"start": 34, "end": 41, "label": "CITY"}]}
+{"id": "utt_0892", "text": "this is deepak krishnan my phone number is 65910 30021 please call me tomorrow", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 43, "end": 54, "label": "PHONE"}]}
+{"id": "utt_1175", "text": "this is ramesh singh my phone number is 8263560229 please call me tomorrow", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 40, "end": 50, "label": "PHONE"}]}
+{"id": "utt_0622", "text": "i am sanjay patel travelling to pune on 16 august 2025", "entities": [{"start": 5, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 36, "label": "CITY"}, {"start": 40, "end": 54, "label": "DATE"}]}
+{"id": "utt_0045", "text": "email id of tushar dubey is tushar dot dubey at rediffmail dot org", "entities": [{"start": 12, "end": 24, "label": "PERSON_NAME"}, {"start": 28, "end": 66, "label": "EMAIL"}]}
+{"id": "utt_0436", "text": "this is ravi dubey from pune my phone is 6344144885 and email is ravi.dubey@gmail.co we can meet on 13 march 2023", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 24, "end": 28, "label": "CITY"}, {"start": 41, "end": 51, "label": "PHONE"}, {"start": 65, "end": 84, "label": "EMAIL"}, {"start": 100, "end": 113, "label": "DATE"}]}
+{"id": "utt_0367", "text": "this is ramesh singh my phone number is 62073 56475 please call me tomorrow", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 40, "end": 51, "label": "PHONE"}]}
+{"id": "synth_dev_0", "text": "payment using card nine five four too nine eight nine five eight oh nine eight nine six one eight confirmed", "entities": [{"start": 19, "end": 97, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_1", "text": "my name is aditi and i live in delhi", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "synth_dev_2", "text": "meeting on 17 october 2019 at starbucks", "entities": [{"start": 11, "end": 26, "label": "DATE"}, {"start": 30, "end": 39, "label": "LOCATION"}]}
+{"id": "synth_dev_3", "text": "my name is smith and i live in mumbai", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_dev_4", "text": "call sharma at four six five four six four five six too eight", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 61, "label": "PHONE"}]}
+{"id": "synth_dev_5", "text": "payment using card three six three four 3422 4026 7471 confirmed", "entities": [{"start": 19, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_6", "text": "my name is smith and i live in london", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_dev_7", "text": "meeting on 27 may 1999 at main street", "entities": [{"start": 11, "end": 22, "label": "DATE"}, {"start": 26, "end": 37, "label": "LOCATION"}]}
+{"id": "synth_dev_8", "text": "is john available in pune", "entities": [{"start": 3, "end": 7, "label": "PERSON_NAME"}, {"start": 21, "end": 25, "label": "CITY"}]}
+{"id": "synth_dev_9", "text": "payment using card o o five eight one one two for one five three too seven six eight nine confirmed", "entities": [{"start": 19, "end": 89, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_10", "text": "my number is for four for eight eight one one one too o", "entities": [{"start": 13, "end": 55, "label": "PHONE"}]}
+{"id": "synth_dev_11", "text": "send details to kumar@outlook.com", "entities": [{"start": 16, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_dev_12", "text": "my number is 153 528 404 8", "entities": [{"start": 13, "end": 26, "label": "PHONE"}]}
+{"id": "synth_dev_13", "text": "payment using card three for to nine six six eight eight nine oh nine one nine eight seven nine confirmed", "entities": [{"start": 19, "end": 95, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_14", "text": "my number is nine eight four nine four eight eight six oh nine", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "synth_dev_15", "text": "payment using card nine six oh five 2253 4106 6202 confirmed", "entities": [{"start": 19, "end": 50, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_16", "text": "is kumar available in london", "entities": [{"start": 3, "end": 8, "label": "PERSON_NAME"}, {"start": 22, "end": 28, "label": "CITY"}]}
+{"id": "synth_dev_17", "text": "is aditi available in delhi", "entities": [{"start": 3, "end": 8, "label": "PERSON_NAME"}, {"start": 22, "end": 27, "label": "CITY"}]}
+{"id": "synth_dev_18", "text": "send details to alice.alice@example.com", "entities": [{"start": 16, "end": 39, "label": "EMAIL"}]}
+{"id": "synth_dev_19", "text": "payment using card for one nine four too for three six oh three nine o eight seven three one confirmed", "entities": [{"start": 19, "end": 92, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_20", "text": "call ramesh at o seven three for nine one nine one", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 50, "label": "PHONE"}]}
+{"id": "synth_dev_21", "text": "reservation at central park for january 12 2012", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 47, "label": "DATE"}]}
+{"id": "synth_dev_22", "text": "send details to priya at yahoo dot com", "entities": [{"start": 16, "end": 38, "label": "EMAIL"}]}
+{"id": "synth_dev_23", "text": "contact me at suresh_ramesh@hotmail.com or six four eight five two nine o o five oh", "entities": [{"start": 14, "end": 39, "label": "EMAIL"}, {"start": 43, "end": 83, "label": "PHONE"}]}
+{"id": "synth_dev_24", "text": "meeting on 3 november 2006 at apollo hospital", "entities": [{"start": 11, "end": 26, "label": "DATE"}, {"start": 30, "end": 45, "label": "LOCATION"}]}
+{"id": "synth_dev_25", "text": "reservation at starbucks for 13 january 1987", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 44, "label": "DATE"}]}
+{"id": "synth_dev_26", "text": "reservation at central park for 5 july 2000", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 43, "label": "DATE"}]}
+{"id": "synth_dev_27", "text": "payment using card seven eight one nine three eight nine one one o seven too zero seven nine eight confirmed", "entities": [{"start": 19, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_28", "text": "my name is john and i live in london", "entities": [{"start": 11, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 36, "label": "CITY"}]}
+{"id": "synth_dev_29", "text": "meeting on 19 september 2001 at starbucks", "entities": [{"start": 11, "end": 28, "label": "DATE"}, {"start": 32, "end": 41, "label": "LOCATION"}]}
+{"id": "synth_dev_30", "text": "my name is suresh and i live in mumbai", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 38, "label": "CITY"}]}
+{"id": "synth_dev_31", "text": "contact me at alice at yahoo dot com or six eight two for two nine nine", "entities": [{"start": 14, "end": 36, "label": "EMAIL"}, {"start": 40, "end": 71, "label": "PHONE"}]}
+{"id": "synth_dev_32", "text": "call alice at 59 50 93 72 19", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 28, "label": "PHONE"}]}
+{"id": "synth_dev_33", "text": "contact me at alice dot smith at example dot com or 99 32 36 09 59", "entities": [{"start": 14, "end": 48, "label": "EMAIL"}, {"start": 52, "end": 66, "label": "PHONE"}]}
+{"id": "synth_dev_34", "text": "meeting on 12 march 2012 at starbucks", "entities": [{"start": 11, "end": 24, "label": "DATE"}, {"start": 28, "end": 37, "label": "LOCATION"}]}
+{"id": "synth_dev_35", "text": "the card ending with three nine oh one 7549 6999 3195 failed", "entities": [{"start": 21, "end": 53, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_36", "text": "my number is 18 76 22 83 36", "entities": [{"start": 13, "end": 27, "label": "PHONE"}]}
+{"id": "synth_dev_37", "text": "payment using card three eight one four five four seven eight o one six four o five three three confirmed", "entities": [{"start": 19, "end": 95, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_38", "text": "my number is seven for six six six to five", "entities": [{"start": 13, "end": 42, "label": "PHONE"}]}
+{"id": "synth_dev_39", "text": "send details to aditi@outlook.com", "entities": [{"start": 16, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_dev_40", "text": "the card ending with nine five o seven seven three one three three nine three too two too eight one failed", "entities": [{"start": 21, "end": 99, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_41", "text": "is bob available in bangalore", "entities": [{"start": 3, "end": 6, "label": "PERSON_NAME"}, {"start": 20, "end": 29, "label": "CITY"}]}
+{"id": "synth_dev_42", "text": "is sharma available in mumbai", "entities": [{"start": 3, "end": 9, "label": "PERSON_NAME"}, {"start": 23, "end": 29, "label": "CITY"}]}
+{"id": "synth_dev_43", "text": "the card ending with five nine one four 7582 3561 2537 failed", "entities": [{"start": 21, "end": 54, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_44", "text": "my number is eight to oh nine nine five to eight five one", "entities": [{"start": 13, "end": 57, "label": "PHONE"}]}
+{"id": "synth_dev_45", "text": "is john available in mumbai", "entities": [{"start": 3, "end": 7, "label": "PERSON_NAME"}, {"start": 21, "end": 27, "label": "CITY"}]}
+{"id": "synth_dev_46", "text": "my name is priya and i live in pune", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 35, "label": "CITY"}]}
+{"id": "synth_dev_47", "text": "call john at 362 153 1", "entities": [{"start": 5, "end": 9, "label": "PERSON_NAME"}, {"start": 13, "end": 22, "label": "PHONE"}]}
+{"id": "synth_dev_48", "text": "reservation at central park for 7 january 2025", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 46, "label": "DATE"}]}
+{"id": "synth_dev_49", "text": "contact me at priya@hotmail.com or six nine too seven five seven too five five six", "entities": [{"start": 14, "end": 31, "label": "EMAIL"}, {"start": 35, "end": 82, "label": "PHONE"}]}
+{"id": "synth_dev_50", "text": "my number is 228 657 315 2", "entities": [{"start": 13, "end": 26, "label": "PHONE"}]}
+{"id": "synth_dev_51", "text": "my name is john and i live in bangalore", "entities": [{"start": 11, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 39, "label": "CITY"}]}
+{"id": "synth_dev_52", "text": "call aditi at 40 82 93 95 56", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 28, "label": "PHONE"}]}
+{"id": "synth_dev_53", "text": "my number is 46 90 66 52 01", "entities": [{"start": 13, "end": 27, "label": "PHONE"}]}
+{"id": "synth_dev_54", "text": "meeting on december 21 2006 at terminal 2", "entities": [{"start": 11, "end": 27, "label": "DATE"}, {"start": 31, "end": 41, "label": "LOCATION"}]}
+{"id": "synth_dev_55", "text": "call ramesh at oh one one oh nine to seven six seven five", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 57, "label": "PHONE"}]}
+{"id": "synth_dev_56", "text": "meeting on 9 december 2001 at main street", "entities": [{"start": 11, "end": 26, "label": "DATE"}, {"start": 30, "end": 41, "label": "LOCATION"}]}
+{"id": "synth_dev_57", "text": "send details to bobsuresh@hotmail.com", "entities": [{"start": 16, "end": 37, "label": "EMAIL"}]}
+{"id": "synth_dev_58", "text": "my name is kumar and i live in mumbai", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_dev_59", "text": "the card ending with eight one one too six four too for eight three seven eight three one zero two failed", "entities": [{"start": 21, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_60", "text": "the card ending with 8330 7592 2066 7564 failed", "entities": [{"start": 21, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_61", "text": "send details to suresh at example dot com", "entities": [{"start": 16, "end": 41, "label": "EMAIL"}]}
+{"id": "synth_dev_62", "text": "send details to priya at outlook dot com", "entities": [{"start": 16, "end": 40, "label": "EMAIL"}]}
+{"id": "synth_dev_63", "text": "the card ending with eight seven six for five seven five eight nine too two eight nine for six seven failed", "entities": [{"start": 21, "end": 100, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_64", "text": "call alice at 086 059 333 6", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 27, "label": "PHONE"}]}
+{"id": "synth_dev_65", "text": "reservation at main street for 13 march 2004", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}, {"start": 31, "end": 44, "label": "DATE"}]}
+{"id": "synth_dev_66", "text": "the card ending with eight zero two six four seven one eight one one nine zero nine three eight oh failed", "entities": [{"start": 21, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_67", "text": "payment using card two zero two seven eight seven three four too five seven four nine one two four confirmed", "entities": [{"start": 19, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_68", "text": "send details to bob dot priya at outlook dot com", "entities": [{"start": 16, "end": 48, "label": "EMAIL"}]}
+{"id": "synth_dev_69", "text": "is john available in pune", "entities": [{"start": 3, "end": 7, "label": "PERSON_NAME"}, {"start": 21, "end": 25, "label": "CITY"}]}
+{"id": "synth_dev_70", "text": "contact me at john.john@hotmail.com or four one six nine nine too eight six nine eight", "entities": [{"start": 14, "end": 35, "label": "EMAIL"}, {"start": 39, "end": 86, "label": "PHONE"}]}
+{"id": "synth_dev_71", "text": "my name is john and i live in pune", "entities": [{"start": 11, "end": 15, "label": "PERSON_NAME"}, {"start": 30, "end": 34, "label": "CITY"}]}
+{"id": "synth_dev_72", "text": "contact me at kumar@yahoo.com or 25 01 99 29 08", "entities": [{"start": 14, "end": 29, "label": "EMAIL"}, {"start": 33, "end": 47, "label": "PHONE"}]}
+{"id": "synth_dev_73", "text": "my number is five five eight nine one oh six", "entities": [{"start": 13, "end": 44, "label": "PHONE"}]}
+{"id": "synth_dev_74", "text": "the card ending with three eight oh two seven four nine six seven six seven one eight nine to seven failed", "entities": [{"start": 21, "end": 99, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_75", "text": "my name is alice and i live in pune", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 35, "label": "CITY"}]}
+{"id": "synth_dev_76", "text": "meeting on april 8 2025 at main street", "entities": [{"start": 11, "end": 23, "label": "DATE"}, {"start": 27, "end": 38, "label": "LOCATION"}]}
+{"id": "synth_dev_77", "text": "my name is alice and i live in new york", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 39, "label": "CITY"}]}
+{"id": "synth_dev_78", "text": "is sharma available in london", "entities": [{"start": 3, "end": 9, "label": "PERSON_NAME"}, {"start": 23, "end": 29, "label": "CITY"}]}
+{"id": "synth_dev_79", "text": "send details to kumar@example.com", "entities": [{"start": 16, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_dev_80", "text": "my number is four eight five three seven zero five three to two", "entities": [{"start": 13, "end": 63, "label": "PHONE"}]}
+{"id": "synth_dev_81", "text": "payment using card nine three o six six five nine nine three o nine o to two six one confirmed", "entities": [{"start": 19, "end": 84, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_82", "text": "send details to john@outlook.com", "entities": [{"start": 16, "end": 32, "label": "EMAIL"}]}
+{"id": "synth_dev_83", "text": "reservation at terminal 2 for 2 march 2014", "entities": [{"start": 15, "end": 25, "label": "LOCATION"}, {"start": 30, "end": 42, "label": "DATE"}]}
+{"id": "synth_dev_84", "text": "reservation at apollo hospital for 13 august 2003", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 49, "label": "DATE"}]}
+{"id": "synth_dev_85", "text": "reservation at central park for 28 july 2015", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 44, "label": "DATE"}]}
+{"id": "synth_dev_86", "text": "call john at 44 19 47 91 37", "entities": [{"start": 5, "end": 9, "label": "PERSON_NAME"}, {"start": 13, "end": 27, "label": "PHONE"}]}
+{"id": "synth_dev_87", "text": "is aditi available in mumbai", "entities": [{"start": 3, "end": 8, "label": "PERSON_NAME"}, {"start": 22, "end": 28, "label": "CITY"}]}
+{"id": "synth_dev_88", "text": "reservation at terminal 2 for april 21 1998", "entities": [{"start": 15, "end": 25, "label": "LOCATION"}, {"start": 30, "end": 43, "label": "DATE"}]}
+{"id": "synth_dev_89", "text": "my name is priya and i live in bangalore", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 40, "label": "CITY"}]}
+{"id": "synth_dev_90", "text": "meeting on may 23 1981 at terminal 2", "entities": [{"start": 11, "end": 22, "label": "DATE"}, {"start": 26, "end": 36, "label": "LOCATION"}]}
+{"id": "synth_dev_91", "text": "send details to smith.suresh@example.com", "entities": [{"start": 16, "end": 40, "label": "EMAIL"}]}
+{"id": "synth_dev_92", "text": "my number is for five eight three zero eight five eight five six", "entities": [{"start": 13, "end": 64, "label": "PHONE"}]}
+{"id": "synth_dev_93", "text": "my name is suresh and i live in london", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 38, "label": "CITY"}]}
+{"id": "synth_dev_94", "text": "contact me at aditi@example.com or three six six six seven too to", "entities": [{"start": 14, "end": 31, "label": "EMAIL"}, {"start": 35, "end": 65, "label": "PHONE"}]}
+{"id": "synth_dev_95", "text": "is bob available in delhi", "entities": [{"start": 3, "end": 6, "label": "PERSON_NAME"}, {"start": 20, "end": 25, "label": "CITY"}]}
+{"id": "synth_dev_96", "text": "meeting on april 5 2010 at terminal 2", "entities": [{"start": 11, "end": 23, "label": "DATE"}, {"start": 27, "end": 37, "label": "LOCATION"}]}
+{"id": "synth_dev_97", "text": "send details to suresh.alice@example.com", "entities": [{"start": 16, "end": 40, "label": "EMAIL"}]}
+{"id": "synth_dev_98", "text": "contact me at smithsharma@yahoo.com or seven zero one seven six o two", "entities": [{"start": 14, "end": 35, "label": "EMAIL"}, {"start": 39, "end": 69, "label": "PHONE"}]}
+{"id": "synth_dev_99", "text": "reservation at starbucks for 7 september 1981", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 45, "label": "DATE"}]}
+{"id": "synth_dev_100", "text": "reservation at terminal 2 for 17 july 2000", "entities": [{"start": 15, "end": 25, "label": "LOCATION"}, {"start": 30, "end": 42, "label": "DATE"}]}
+{"id": "synth_dev_101", "text": "reservation at apollo hospital for 15 december 2008", "entities": [{"start": 15, "end": 30, "label": "LOCATION"}, {"start": 35, "end": 51, "label": "DATE"}]}
+{"id": "synth_dev_102", "text": "contact me at smith.john@example.com or 35 20 99 33 82", "entities": [{"start": 14, "end": 36, "label": "EMAIL"}, {"start": 40, "end": 54, "label": "PHONE"}]}
+{"id": "synth_dev_103", "text": "my name is suresh and i live in bangalore", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 41, "label": "CITY"}]}
+{"id": "synth_dev_104", "text": "my number is for four one one six seven six nine three one", "entities": [{"start": 13, "end": 58, "label": "PHONE"}]}
+{"id": "synth_dev_105", "text": "send details to alicejohn@yahoo.com", "entities": [{"start": 16, "end": 35, "label": "EMAIL"}]}
+{"id": "synth_dev_106", "text": "my name is aditi and i live in pune", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 35, "label": "CITY"}]}
+{"id": "synth_dev_107", "text": "meeting on 7 august 1986 at apollo hospital", "entities": [{"start": 11, "end": 24, "label": "DATE"}, {"start": 28, "end": 43, "label": "LOCATION"}]}
+{"id": "synth_dev_108", "text": "contact me at priya@yahoo.com or to seven seven seven oh seven five five", "entities": [{"start": 14, "end": 29, "label": "EMAIL"}, {"start": 33, "end": 72, "label": "PHONE"}]}
+{"id": "synth_dev_109", "text": "call bob at oh eight six five two seven two for three seven", "entities": [{"start": 5, "end": 8, "label": "PERSON_NAME"}, {"start": 12, "end": 59, "label": "PHONE"}]}
+{"id": "synth_dev_110", "text": "contact me at kumar dot priya at outlook dot com or five for five four eight seven three", "entities": [{"start": 14, "end": 48, "label": "EMAIL"}, {"start": 52, "end": 88, "label": "PHONE"}]}
+{"id": "synth_dev_111", "text": "call john at seven one oh nine three seven eight five to one", "entities": [{"start": 5, "end": 9, "label": "PERSON_NAME"}, {"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "synth_dev_112", "text": "call kumar at zero o four five seven five three five", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 52, "label": "PHONE"}]}
+{"id": "synth_dev_113", "text": "contact me at alice@gmail.com or 443 191 232 9", "entities": [{"start": 14, "end": 29, "label": "EMAIL"}, {"start": 33, "end": 46, "label": "PHONE"}]}
+{"id": "synth_dev_114", "text": "send details to alice.aditi@hotmail.com", "entities": [{"start": 16, "end": 39, "label": "EMAIL"}]}
+{"id": "synth_dev_115", "text": "call smith at o three eight nine eight for five six two to", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 58, "label": "PHONE"}]}
+{"id": "synth_dev_116", "text": "contact me at sharma dot aditi at outlook dot com or oh four three seven five nine eight six", "entities": [{"start": 14, "end": 49, "label": "EMAIL"}, {"start": 53, "end": 92, "label": "PHONE"}]}
+{"id": "synth_dev_117", "text": "call alice at one nine eight six zero three one one", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 51, "label": "PHONE"}]}
+{"id": "synth_dev_118", "text": "call suresh at 79 99 81 07 11", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 29, "label": "PHONE"}]}
+{"id": "synth_dev_119", "text": "reservation at main street for 24 november 2023", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}, {"start": 31, "end": 47, "label": "DATE"}]}
+{"id": "synth_dev_120", "text": "meeting on 15 may 1998 at central park", "entities": [{"start": 11, "end": 22, "label": "DATE"}, {"start": 26, "end": 38, "label": "LOCATION"}]}
+{"id": "synth_dev_121", "text": "contact me at bob@example.com or 96 16 80 5", "entities": [{"start": 14, "end": 29, "label": "EMAIL"}, {"start": 33, "end": 43, "label": "PHONE"}]}
+{"id": "synth_dev_122", "text": "my number is 465 703 528 4", "entities": [{"start": 13, "end": 26, "label": "PHONE"}]}
+{"id": "synth_dev_123", "text": "send details to bob_alice@gmail.com", "entities": [{"start": 16, "end": 35, "label": "EMAIL"}]}
+{"id": "synth_dev_124", "text": "send details to kumar dot suresh at hotmail dot com", "entities": [{"start": 16, "end": 51, "label": "EMAIL"}]}
+{"id": "synth_dev_125", "text": "send details to smith@gmail.com", "entities": [{"start": 16, "end": 31, "label": "EMAIL"}]}
+{"id": "synth_dev_126", "text": "call sharma at 066 246 3", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 24, "label": "PHONE"}]}
+{"id": "synth_dev_127", "text": "send details to bob_smith@gmail.com", "entities": [{"start": 16, "end": 35, "label": "EMAIL"}]}
+{"id": "synth_dev_128", "text": "contact me at aditi at outlook dot com or 149 692 859 5", "entities": [{"start": 14, "end": 38, "label": "EMAIL"}, {"start": 42, "end": 55, "label": "PHONE"}]}
+{"id": "synth_dev_129", "text": "reservation at central park for 28 march 1982", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 45, "label": "DATE"}]}
+{"id": "synth_dev_130", "text": "send details to bobjohn@example.com", "entities": [{"start": 16, "end": 35, "label": "EMAIL"}]}
+{"id": "synth_dev_131", "text": "the card ending with one three six seven 3077 5373 6115 failed", "entities": [{"start": 21, "end": 55, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_132", "text": "call sharma at 99 89 67 02 25", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 29, "label": "PHONE"}]}
+{"id": "synth_dev_133", "text": "my name is bob and i live in london", "entities": [{"start": 11, "end": 14, "label": "PERSON_NAME"}, {"start": 29, "end": 35, "label": "CITY"}]}
+{"id": "synth_dev_134", "text": "payment using card three o five six o seven eight for seven for eight two one eight eight one confirmed", "entities": [{"start": 19, "end": 93, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_135", "text": "send details to kumar at outlook dot com", "entities": [{"start": 16, "end": 40, "label": "EMAIL"}]}
+{"id": "synth_dev_136", "text": "is alice available in new york", "entities": [{"start": 3, "end": 8, "label": "PERSON_NAME"}, {"start": 22, "end": 30, "label": "CITY"}]}
+{"id": "synth_dev_137", "text": "my number is six seven seven oh seven eight for one five eight", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "synth_dev_138", "text": "my number is six five nine eight o nine six seven six five", "entities": [{"start": 13, "end": 58, "label": "PHONE"}]}
+{"id": "synth_dev_139", "text": "my name is priya and i live in delhi", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 36, "label": "CITY"}]}
+{"id": "synth_dev_140", "text": "my number is 081 446 22", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "synth_dev_141", "text": "reservation at starbucks for november 19 1989", "entities": [{"start": 15, "end": 24, "label": "LOCATION"}, {"start": 29, "end": 45, "label": "DATE"}]}
+{"id": "synth_dev_142", "text": "meeting on january 11 1988 at central park", "entities": [{"start": 11, "end": 26, "label": "DATE"}, {"start": 30, "end": 42, "label": "LOCATION"}]}
+{"id": "synth_dev_143", "text": "my number is 14 04 32 71", "entities": [{"start": 13, "end": 24, "label": "PHONE"}]}
+{"id": "synth_dev_144", "text": "payment using card seven one seven eight 9538 7685 4598 confirmed", "entities": [{"start": 19, "end": 55, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_145", "text": "contact me at sharma dot suresh at yahoo dot com or seven six seven nine six three three nine six two", "entities": [{"start": 14, "end": 48, "label": "EMAIL"}, {"start": 52, "end": 101, "label": "PHONE"}]}
+{"id": "synth_dev_146", "text": "reservation at main street for november 21 2022", "entities": [{"start": 15, "end": 26, "label": "LOCATION"}, {"start": 31, "end": 47, "label": "DATE"}]}
+{"id": "synth_dev_147", "text": "reservation at central park for 21 may 2001", "entities": [{"start": 15, "end": 27, "label": "LOCATION"}, {"start": 32, "end": 43, "label": "DATE"}]}
+{"id": "synth_dev_148", "text": "reservation at terminal 2 for august 17 1985", "entities": [{"start": 15, "end": 25, "label": "LOCATION"}, {"start": 30, "end": 44, "label": "DATE"}]}
+{"id": "synth_dev_149", "text": "call alice at 736 718 639 9", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 27, "label": "PHONE"}]}
+{"id": "synth_dev_150", "text": "is ramesh available in bangalore", "entities": [{"start": 3, "end": 9, "label": "PERSON_NAME"}, {"start": 23, "end": 32, "label": "CITY"}]}
+{"id": "synth_dev_151", "text": "my name is ramesh and i live in mumbai", "entities": [{"start": 11, "end": 17, "label": "PERSON_NAME"}, {"start": 32, "end": 38, "label": "CITY"}]}
+{"id": "synth_dev_152", "text": "send details to priya@outlook.com", "entities": [{"start": 16, "end": 33, "label": "EMAIL"}]}
+{"id": "synth_dev_153", "text": "my name is smith and i live in london", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_dev_154", "text": "contact me at bob at outlook dot com or oh nine for zero oh two three", "entities": [{"start": 14, "end": 36, "label": "EMAIL"}, {"start": 40, "end": 69, "label": "PHONE"}]}
+{"id": "synth_dev_155", "text": "payment using card six eight one one six oh one for oh seven seven eight oh seven o eight confirmed", "entities": [{"start": 19, "end": 89, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_156", "text": "is ramesh available in new york", "entities": [{"start": 3, "end": 9, "label": "PERSON_NAME"}, {"start": 23, "end": 31, "label": "CITY"}]}
+{"id": "synth_dev_157", "text": "send details to john dot sharma at hotmail dot com", "entities": [{"start": 16, "end": 50, "label": "EMAIL"}]}
+{"id": "synth_dev_158", "text": "payment using card nine seven eight eight 4595 3354 2411 confirmed", "entities": [{"start": 19, "end": 56, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_159", "text": "payment using card for eight for seven two eight too too eight oh nine five five eight seven seven confirmed", "entities": [{"start": 19, "end": 98, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_160", "text": "the card ending with 9334 4506 1475 4485 failed", "entities": [{"start": 21, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_161", "text": "call sharma at 405 955 305 7", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 28, "label": "PHONE"}]}
+{"id": "synth_dev_162", "text": "send details to kumar dot priya at gmail dot com", "entities": [{"start": 16, "end": 48, "label": "EMAIL"}]}
+{"id": "synth_dev_163", "text": "payment using card six one seven five zero zero four seven nine for seven eight to five too too confirmed", "entities": [{"start": 19, "end": 95, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_164", "text": "my name is priya and i live in mumbai", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 37, "label": "CITY"}]}
+{"id": "synth_dev_165", "text": "call ramesh at 61 31 86 16", "entities": [{"start": 5, "end": 11, "label": "PERSON_NAME"}, {"start": 15, "end": 26, "label": "PHONE"}]}
+{"id": "synth_dev_166", "text": "call priya at to five one one five five nine one to five", "entities": [{"start": 5, "end": 10, "label": "PERSON_NAME"}, {"start": 14, "end": 56, "label": "PHONE"}]}
+{"id": "synth_dev_167", "text": "my name is alice and i live in bangalore", "entities": [{"start": 11, "end": 16, "label": "PERSON_NAME"}, {"start": 31, "end": 40, "label": "CITY"}]}
+{"id": "synth_dev_168", "text": "payment using card for four to seven eight one too o zero eight six eight oh three oh one confirmed", "entities": [{"start": 19, "end": 89, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_169", "text": "the card ending with o seven six one three nine two eight too seven for one nine one zero eight failed", "entities": [{"start": 21, "end": 95, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_170", "text": "the card ending with 6206 1359 7251 1876 failed", "entities": [{"start": 21, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "synth_dev_171", "text": "meeting on 14 november 1984 at main street", "entities": [{"start": 11, "end": 27, "label": "DATE"}, {"start": 31, "end": 42, "label": "LOCATION"}]}
+{"id": "synth_dev_172", "text": "my name is bob and i live in hyderabad", "entities": [{"start": 11, "end": 14, "label": "PERSON_NAME"}, {"start": 29, "end": 38, "label": "CITY"}]}
+{"id": "synth_dev_173", "text": "contact me at priya dot suresh at example dot com or eight three to three one too nine nine for nine", "entities": [{"start": 14, "end": 49, "label": "EMAIL"}, {"start": 53, "end": 100, "label": "PHONE"}]}
+{"id": "synth_dev_174", "text": "meeting on 20 september 2006 at starbucks", "entities": [{"start": 11, "end": 28, "label": "DATE"}, {"start": 32, "end": 41, "label": "LOCATION"}]}
