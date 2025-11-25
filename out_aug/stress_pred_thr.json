@@ -1,0 +1,2188 @@
+{
+  "stress_0001": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9527233242988586
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8845226764678955
+    },
+    {
+      "start": 19,
+      "end": 36,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9957018494606018
+    },
+    {
+      "start": 46,
+      "end": 51,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6544402241706848
+    },
+    {
+      "start": 55,
+      "end": 64,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9942054152488708
+    },
+    {
+      "start": 81,
+      "end": 95,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9937459230422974
+    }
+  ],
+  "stress_0002": [],
+  "stress_0003": [
+    {
+      "start": 221,
+      "end": 264,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.6564931273460388
+    }
+  ],
+  "stress_0004": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8419097661972046
+    },
+    {
+      "start": 165,
+      "end": 209,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9567649364471436
+    }
+  ],
+  "stress_0005": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.953209638595581
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8929263353347778
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.994881272315979
+    },
+    {
+      "start": 43,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5067582130432129
+    },
+    {
+      "start": 52,
+      "end": 59,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9912164211273193
+    },
+    {
+      "start": 76,
+      "end": 92,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9938313961029053
+    }
+  ],
+  "stress_0006": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9511889815330505
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8559209108352661
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9947496056556702
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5806925296783447
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9939642548561096
+    },
+    {
+      "start": 72,
+      "end": 90,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9934385418891907
+    }
+  ],
+  "stress_0007": [
+    {
+      "start": 224,
+      "end": 257,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.8167667984962463
+    }
+  ],
+  "stress_0008": [],
+  "stress_0009": [
+    {
+      "start": 229,
+      "end": 267,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.8194524049758911
+    }
+  ],
+  "stress_0010": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9335208535194397
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8993860483169556
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9952210783958435
+    },
+    {
+      "start": 45,
+      "end": 50,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5524828433990479
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9945024251937866
+    },
+    {
+      "start": 80,
+      "end": 95,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9931485056877136
+    }
+  ],
+  "stress_0011": [],
+  "stress_0012": [
+    {
+      "start": 230,
+      "end": 261,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.8300063014030457
+    }
+  ],
+  "stress_0013": [],
+  "stress_0014": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9110391736030579
+    },
+    {
+      "start": 164,
+      "end": 197,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9711116552352905
+    }
+  ],
+  "stress_0015": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9184504151344299
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.658460259437561
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9957348704338074
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8521609306335449
+    },
+    {
+      "start": 49,
+      "end": 53,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9941336512565613
+    },
+    {
+      "start": 70,
+      "end": 89,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9931476712226868
+    }
+  ],
+  "stress_0016": [
+    {
+      "start": 229,
+      "end": 262,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9972713589668274
+    }
+  ],
+  "stress_0017": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9544588327407837
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8420161604881287
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9935430288314819
+    },
+    {
+      "start": 42,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5617274045944214
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9915675520896912
+    },
+    {
+      "start": 74,
+      "end": 89,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9935775995254517
+    }
+  ],
+  "stress_0018": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9549809694290161
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.901780366897583
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9943420886993408
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7901904582977295
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9946274161338806
+    },
+    {
+      "start": 75,
+      "end": 95,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9939477443695068
+    }
+  ],
+  "stress_0019": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9087857007980347
+    },
+    {
+      "start": 161,
+      "end": 200,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.994500994682312
+    }
+  ],
+  "stress_0020": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9077542424201965
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9165242314338684
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9929734468460083
+    },
+    {
+      "start": 45,
+      "end": 50,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.657801628112793
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9940484762191772
+    },
+    {
+      "start": 80,
+      "end": 95,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9930570125579834
+    }
+  ],
+  "stress_0021": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9449531435966492
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7167916297912598
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9947044253349304
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5855125188827515
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9945789575576782
+    },
+    {
+      "start": 75,
+      "end": 88,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9934642910957336
+    }
+  ],
+  "stress_0022": [
+    {
+      "start": 220,
+      "end": 254,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.7556422352790833
+    }
+  ],
+  "stress_0023": [],
+  "stress_0024": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6035818457603455
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5370386242866516
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.995272696018219
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9945530891418457
+    },
+    {
+      "start": 72,
+      "end": 89,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9931637644767761
+    }
+  ],
+  "stress_0025": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9147879481315613
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8829227089881897
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9947192668914795
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6941877603530884
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9941402077674866
+    },
+    {
+      "start": 76,
+      "end": 94,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936614036560059
+    }
+  ],
+  "stress_0026": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.910664439201355
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8793310523033142
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.993514895439148
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7271746397018433
+    },
+    {
+      "start": 49,
+      "end": 56,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9915356636047363
+    },
+    {
+      "start": 73,
+      "end": 87,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936090707778931
+    }
+  ],
+  "stress_0027": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9279987215995789
+    },
+    {
+      "start": 167,
+      "end": 197,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9798645973205566
+    }
+  ],
+  "stress_0028": [
+    {
+      "start": 233,
+      "end": 264,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9851346611976624
+    }
+  ],
+  "stress_0029": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9397006630897522
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5266405940055847
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9956583976745605
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7200579047203064
+    },
+    {
+      "start": 50,
+      "end": 57,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9939033389091492
+    },
+    {
+      "start": 74,
+      "end": 90,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9931840300559998
+    }
+  ],
+  "stress_0030": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9439113140106201
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8817380666732788
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9934685230255127
+    },
+    {
+      "start": 45,
+      "end": 50,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5030096173286438
+    },
+    {
+      "start": 54,
+      "end": 58,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9936321377754211
+    },
+    {
+      "start": 75,
+      "end": 88,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9932301044464111
+    }
+  ],
+  "stress_0031": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5708513855934143
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.588512659072876
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9951505661010742
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9947859644889832
+    },
+    {
+      "start": 76,
+      "end": 95,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9943408966064453
+    }
+  ],
+  "stress_0032": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9426618218421936
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7643680572509766
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9924890995025635
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8085035085678101
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9943748712539673
+    },
+    {
+      "start": 76,
+      "end": 93,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936459064483643
+    }
+  ],
+  "stress_0033": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9425050616264343
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9179065823554993
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9951679706573486
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6801990270614624
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9942016005516052
+    },
+    {
+      "start": 72,
+      "end": 85,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9934669137001038
+    }
+  ],
+  "stress_0034": [
+    {
+      "start": 219,
+      "end": 258,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.7795993089675903
+    }
+  ],
+  "stress_0035": [],
+  "stress_0036": [
+    {
+      "start": 226,
+      "end": 271,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9028205871582031
+    }
+  ],
+  "stress_0037": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9313250780105591
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8864220380783081
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9943916201591492
+    },
+    {
+      "start": 43,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7411326766014099
+    },
+    {
+      "start": 52,
+      "end": 58,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9938569664955139
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.99358069896698
+    }
+  ],
+  "stress_0038": [],
+  "stress_0039": [],
+  "stress_0040": [],
+  "stress_0041": [
+    {
+      "start": 221,
+      "end": 268,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9935786724090576
+    }
+  ],
+  "stress_0042": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.957369863986969
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8668607473373413
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9950292706489563
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5154930353164673
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9944896697998047
+    },
+    {
+      "start": 76,
+      "end": 93,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9933737516403198
+    }
+  ],
+  "stress_0043": [
+    {
+      "start": 230,
+      "end": 272,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9015644192695618
+    }
+  ],
+  "stress_0044": [
+    {
+      "start": 224,
+      "end": 243,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9789667129516602
+    }
+  ],
+  "stress_0045": [],
+  "stress_0046": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9536838531494141
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8824480772018433
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9954635500907898
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.610538125038147
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9942148327827454
+    },
+    {
+      "start": 72,
+      "end": 88,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9940634369850159
+    }
+  ],
+  "stress_0047": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9402223229408264
+    },
+    {
+      "start": 161,
+      "end": 198,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.994403064250946
+    }
+  ],
+  "stress_0048": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9491211771965027
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8105664253234863
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9959256649017334
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9921073317527771
+    },
+    {
+      "start": 70,
+      "end": 88,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9938866496086121
+    }
+  ],
+  "stress_0049": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.961329996585846
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6265430450439453
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9936951994895935
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5358195900917053
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9913275837898254
+    },
+    {
+      "start": 70,
+      "end": 89,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9938763976097107
+    }
+  ],
+  "stress_0050": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8447075486183167
+    },
+    {
+      "start": 171,
+      "end": 198,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.997836172580719
+    }
+  ],
+  "stress_0051": [
+    {
+      "start": 231,
+      "end": 273,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.6869906187057495
+    }
+  ],
+  "stress_0052": [],
+  "stress_0053": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9368096590042114
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8474695682525635
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9953269958496094
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6586726903915405
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9947429895401001
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9928354620933533
+    }
+  ],
+  "stress_0054": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8901177048683167
+    },
+    {
+      "start": 158,
+      "end": 195,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.6554041504859924
+    }
+  ],
+  "stress_0055": [],
+  "stress_0056": [],
+  "stress_0057": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9587395787239075
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8741087913513184
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9960522055625916
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5151984691619873
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9940349459648132
+    },
+    {
+      "start": 73,
+      "end": 92,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9937373399734497
+    }
+  ],
+  "stress_0058": [],
+  "stress_0059": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8961975574493408
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8444067239761353
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9925454258918762
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7257497310638428
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9922274351119995
+    },
+    {
+      "start": 70,
+      "end": 86,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936591982841492
+    }
+  ],
+  "stress_0060": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9512031078338623
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8790767192840576
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9954301118850708
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5189694166183472
+    },
+    {
+      "start": 53,
+      "end": 60,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9914851784706116
+    },
+    {
+      "start": 77,
+      "end": 90,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936680197715759
+    }
+  ],
+  "stress_0061": [],
+  "stress_0062": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9218641519546509
+    },
+    {
+      "start": 173,
+      "end": 211,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.97325599193573
+    }
+  ],
+  "stress_0063": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9453258514404297
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6976960301399231
+    },
+    {
+      "start": 19,
+      "end": 27,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9942574501037598
+    },
+    {
+      "start": 37,
+      "end": 42,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5556479096412659
+    },
+    {
+      "start": 46,
+      "end": 51,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9924436211585999
+    },
+    {
+      "start": 68,
+      "end": 86,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.99346524477005
+    }
+  ],
+  "stress_0064": [
+    {
+      "start": 169,
+      "end": 206,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.7723814845085144
+    }
+  ],
+  "stress_0065": [
+    {
+      "start": 159,
+      "end": 194,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9718033075332642
+    }
+  ],
+  "stress_0066": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9270001649856567
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.891576886177063
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9948364496231079
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5635679364204407
+    },
+    {
+      "start": 53,
+      "end": 62,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9915539622306824
+    },
+    {
+      "start": 79,
+      "end": 95,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9937352538108826
+    }
+  ],
+  "stress_0067": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9524824023246765
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8665639758110046
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9943029880523682
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7088062167167664
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9922367930412292
+    },
+    {
+      "start": 71,
+      "end": 88,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9930118918418884
+    }
+  ],
+  "stress_0068": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.94022136926651
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5950513482093811
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.995989978313446
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7420709729194641
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9903675317764282
+    },
+    {
+      "start": 70,
+      "end": 87,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9933342933654785
+    }
+  ],
+  "stress_0069": [],
+  "stress_0070": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8571284413337708
+    },
+    {
+      "start": 162,
+      "end": 204,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9486503601074219
+    }
+  ],
+  "stress_0071": [
+    {
+      "start": 228,
+      "end": 267,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.8044825792312622
+    }
+  ],
+  "stress_0072": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9382712841033936
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9057847261428833
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9953568577766418
+    },
+    {
+      "start": 52,
+      "end": 58,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.991955578327179
+    },
+    {
+      "start": 75,
+      "end": 93,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9930589199066162
+    }
+  ],
+  "stress_0073": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9650841355323792
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7203401327133179
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9947713017463684
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5632827877998352
+    },
+    {
+      "start": 49,
+      "end": 54,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9912996888160706
+    },
+    {
+      "start": 71,
+      "end": 90,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936203360557556
+    }
+  ],
+  "stress_0074": [
+    {
+      "start": 224,
+      "end": 255,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9981786012649536
+    }
+  ],
+  "stress_0075": [],
+  "stress_0076": [
+    {
+      "start": 221,
+      "end": 262,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9773750901222229
+    }
+  ],
+  "stress_0077": [],
+  "stress_0078": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8781978487968445
+    },
+    {
+      "start": 160,
+      "end": 202,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9740257859230042
+    }
+  ],
+  "stress_0079": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9393081665039062
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8831483721733093
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9955055713653564
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9942688941955566
+    },
+    {
+      "start": 71,
+      "end": 86,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9936627149581909
+    }
+  ],
+  "stress_0080": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9528631567955017
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8375822901725769
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.995120108127594
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.5739423036575317
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9938858151435852
+    },
+    {
+      "start": 72,
+      "end": 91,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9941169023513794
+    }
+  ],
+  "stress_0081": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9621174931526184
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8799046277999878
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9952473044395447
+    },
+    {
+      "start": 41,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6948859095573425
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9920147657394409
+    },
+    {
+      "start": 73,
+      "end": 92,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.994045615196228
+    }
+  ],
+  "stress_0082": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.941281259059906
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6976768374443054
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9917225241661072
+    },
+    {
+      "start": 42,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6433293223381042
+    },
+    {
+      "start": 51,
+      "end": 56,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9920205473899841
+    },
+    {
+      "start": 73,
+      "end": 89,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9932447075843811
+    }
+  ],
+  "stress_0083": [],
+  "stress_0084": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9495180249214172
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.684798538684845
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9962800145149231
+    },
+    {
+      "start": 42,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.611611545085907
+    },
+    {
+      "start": 51,
+      "end": 61,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9923893809318542
+    },
+    {
+      "start": 78,
+      "end": 93,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9935857653617859
+    }
+  ],
+  "stress_0085": [],
+  "stress_0086": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8153925538063049
+    },
+    {
+      "start": 165,
+      "end": 202,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9677754640579224
+    }
+  ],
+  "stress_0087": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9052403569221497
+    }
+  ],
+  "stress_0088": [
+    {
+      "start": 162,
+      "end": 203,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9900520443916321
+    }
+  ],
+  "stress_0089": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9010189175605774
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8589110374450684
+    },
+    {
+      "start": 19,
+      "end": 28,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9943569302558899
+    },
+    {
+      "start": 38,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6696788668632507
+    },
+    {
+      "start": 47,
+      "end": 53,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9940150380134583
+    },
+    {
+      "start": 70,
+      "end": 87,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9934113621711731
+    }
+  ],
+  "stress_0090": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.817707359790802
+    }
+  ],
+  "stress_0091": [
+    {
+      "start": 232,
+      "end": 268,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.7322176694869995
+    }
+  ],
+  "stress_0092": [],
+  "stress_0093": [],
+  "stress_0094": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.8872196078300476
+    },
+    {
+      "start": 166,
+      "end": 204,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.935975968837738
+    }
+  ],
+  "stress_0095": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9504741430282593
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8817252516746521
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9944604635238647
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.8265300393104553
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.99440598487854
+    },
+    {
+      "start": 71,
+      "end": 89,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9932502508163452
+    }
+  ],
+  "stress_0096": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.7843709588050842
+    },
+    {
+      "start": 163,
+      "end": 189,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.6349004507064819
+    }
+  ],
+  "stress_0097": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.9155099391937256
+    },
+    {
+      "start": 163,
+      "end": 193,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9585998058319092
+    }
+  ],
+  "stress_0098": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "CREDIT_CARD",
+      "pii": true,
+      "score": 0.954979419708252
+    },
+    {
+      "start": 164,
+      "end": 201,
+      "label": "EMAIL",
+      "pii": true,
+      "score": 0.9920918941497803
+    }
+  ],
+  "stress_0099": [
+    {
+      "start": 0,
+      "end": 4,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9605304002761841
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.6060402989387512
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.9943842887878418
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true,
+      "score": 0.7457633018493652
+    },
+    {
+      "start": 48,
+      "end": 55,
+      "label": "CITY",
+      "pii": false,
+      "score": 0.9936919212341309
+    },
+    {
+      "start": 72,
+      "end": 91,
+      "label": "DATE",
+      "pii": true,
+      "score": 0.9942474365234375
+    }
+  ],
+  "stress_0100": []
+}
